@@ -56,7 +56,7 @@ def update_jokes_for_codetengu_weekly():
 
     url = 'https://lfsfm1czqg.execute-api.ap-northeast-1.amazonaws.com/v1/issues'
     headers = {
-        'x-api-key': '8Z8ZS06vR4a9XdYdimVio9C5LYjbtJBh2uDWcMjB',
+        'x-api-key': '8Z8ZS06vR4a9XdYdimVio9C5LYjbtJBh2uDWcMjB',  # quota: 100000 requests per month
         'Content-Type': 'application/json',
     }
     req = requests.get(url, headers=headers)
