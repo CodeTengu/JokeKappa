@@ -27,8 +27,6 @@ long_description = open('README.rst').read()
 requirements_lines = [line.strip() for line in open('requirements.txt').readlines()]
 install_requires = list(filter(None, requirements_lines))
 
-tests_require = ['coverage', ]
-
 setup(
     name='jokekappa',
     version=get_version(),
@@ -44,7 +42,6 @@ setup(
     packages=find_packages(exclude=('tests', )),
     include_package_data=True,
     test_suite='tests',
-    tests_require=tests_require,
     classifiers=(
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
