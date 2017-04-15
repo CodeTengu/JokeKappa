@@ -1,0 +1,270 @@
+[
+  {
+    "content": "你從什麼時候開始產生了我沒使用 Monkey Patch 的錯覺？",
+    "issue_number": 83
+  },
+  {
+    "content": "把 .psd 副檔名改成 .jpg 並不叫做轉檔，不，改成 .png 也不是",
+    "issue_number": 82
+  },
+  {
+    "content": "I � Unicode",
+    "issue_number": 81
+  },
+  {
+    "content": "HTTP 牽到 443 還是 HTTP",
+    "issue_number": 80
+  },
+  {
+    "content": "小明相信最好的代碼本身就是文檔，他才不需要註解，他的函式名稱有 100 個字元",
+    "issue_number": 78
+  },
+  {
+    "content": "心裡想的是 Microservice，手裡做的是 Distributed Monolith",
+    "issue_number": 76
+  },
+  {
+    "content": "程式寫得爛沒關係，技術奇點來臨之後，你程式裡的 bug 電腦都可以自己解決，如果沒有，至少你會被電腦解決",
+    "issue_number": 75
+  },
+  {
+    "content": "只有兩種產業的人會把他們的客戶稱為 User，軟體工程師和毒販",
+    "issue_number": 74
+  },
+  {
+    "content": "Merge branch 'develop'",
+    "issue_number": 73
+  },
+  {
+    "content": "Workaround 雖可恥但有用",
+    "issue_number": 72
+  },
+  {
+    "content": "如果你覺得自己的工作環境裡沒有機歪人，那你就是那個機歪人",
+    "issue_number": 71
+  },
+  {
+    "content": "這個人老是在寫程式，是不是有 bin 啊？",
+    "issue_number": 68
+  },
+  {
+    "content": "小明白天只是一名普通的軟體工程師，但是只要一到了夜晚，他就會搖身一變，成為一名加班的軟體工程師",
+    "issue_number": 67
+  },
+  {
+    "content": "學海無涯，回頭是岸",
+    "issue_number": 66
+  },
+  {
+    "content": "上班的人太多，下班的人太少 #職場不等式",
+    "issue_number": 65
+  },
+  {
+    "content": "奧卡姆剃刀法則：因為需要改的地方太多了，那就改天吧",
+    "issue_number": 64
+  },
+  {
+    "content": "就算有九個女人也沒辦法在一個月內就讓孩子出生",
+    "issue_number": 62
+  },
+  {
+    "content": "大家都喜歡高測試覆蓋率，只是剛好大家都討厭寫測試",
+    "issue_number": 61
+  },
+  {
+    "content": "There is no place like 127.0.0.1",
+    "issue_number": 60
+  },
+  {
+    "content": "你在每個 commit 裡修改的程式碼越多，你在 code review 時被發現的錯誤就會越少",
+    "issue_number": 59
+  },
+  {
+    "content": "我審查了自己的程式碼，得到了一份更好的程式碼跟更好的自己",
+    "issue_number": 58
+  },
+  {
+    "content": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+    "issue_number": 57
+  },
+  {
+    "content": "The best place to hide a dead body is page 2 of Google search results.",
+    "issue_number": 56
+  },
+  {
+    "content": "要 mock 的物件太多了，只好 mock 罵號",
+    "issue_number": 53
+  },
+  {
+    "content": "當一個軟體工程師宣稱他已經完成了 90% 的工作，意思是他還需要相同的時間來完成剩下的 10% 的工作",
+    "issue_number": 52
+  },
+  {
+    "content": "Use the --force, Luke",
+    "issue_number": 50
+  },
+  {
+    "content": "There are only two hard things in Computer Science: cache invalidation and naming things.",
+    "issue_number": 49
+  },
+  {
+    "content": "做高級工程師好多年了，沒想到今天忽然就被升職成傳說級工程師",
+    "issue_number": 48
+  },
+  {
+    "content": "沒有什麼問題是重開機不能解決的，如果有，那就重灌",
+    "issue_number": 47
+  },
+  {
+    "content": "不能信任那些 Terminal 或編輯器用白底的人",
+    "issue_number": 46
+  },
+  {
+    "content": "為了不讓 Google 的 AlphaGo 專美於前，微軟也將在近期推出自己的圍棋 AI，名叫 AlphaC#",
+    "issue_number": 44
+  },
+  {
+    "content": "Perl 是唯一一門在 RSA 加密前後看起來一樣的語言",
+    "issue_number": 43
+  },
+  {
+    "content": "所有人都在說互联网，沒有人在說網際網路了",
+    "issue_number": 42
+  },
+  {
+    "content": "// Do not remove this comment or code will break",
+    "issue_number": 40
+  },
+  {
+    "content": "SQL 原教旨主義者每 9.5 個月就會對使用 ORM 的族群發起一次聖戰",
+    "issue_number": 39
+  },
+  {
+    "content": "我一直相信，只要打字速度足夠快，寂寞就追不上我",
+    "issue_number": 38
+  },
+  {
+    "content": "除錯的難度幾乎是寫程式的兩倍，如果你把程式寫得太精巧，那你多半沒有聰明到可以解決你的程式的錯誤",
+    "issue_number": 37
+  },
+  {
+    "content": "Hi, I'd like to add you to my professional network on LinkedIn",
+    "issue_number": 36
+  },
+  {
+    "content": "不要試著去人格化人工智慧！他們討厭那樣子！",
+    "issue_number": 35
+  },
+  {
+    "content": "阿嬤從小就告誡我：不要跟那些電腦裡有安裝 Axure RP 的人當朋友，他們都不是好東西",
+    "issue_number": 34
+  },
+  {
+    "content": "軟體開發領域的五大反人類的發明：JavaScript、Regular Expression、XML、Git 和 PM",
+    "issue_number": 33
+  },
+  {
+    "content": "維護舊系統的正確心態要像在海水浴場游泳，因為每個人都會在裡面尿尿",
+    "issue_number": 32
+  },
+  {
+    "content": "「我是個壞女孩，我需要被懲罰」她咬著嘴唇說著，「很好」他邊說邊開始在她的筆電安裝 Windows 10",
+    "issue_number": 31
+  },
+  {
+    "content": "聽我說，我有一個獨家的點子，只缺幾個工程師來實現它：「設計一套可以付費下載更多 RAM 的 APP」",
+    "issue_number": 30
+  },
+  {
+    "content": "如何靠寫 Java 快速致富？繼承",
+    "issue_number": 29
+  },
+  {
+    "content": "♫ 每條大街小巷，每個工程師的嘴裡，見面第一句話，就是不要 Deploy ♫",
+    "issue_number": 28
+  },
+  {
+    "content": "密碼：ppnn13%dkstFeb.1st 密碼提示：娉娉裊裊十三餘 豆蔻梢頭二月初",
+    "issue_number": 27
+  },
+  {
+    "content": "自從注意到更新 Xcode 需要先關閉 iTunes 之後，我對於模組解耦合這件事已經沒有追求",
+    "issue_number": 26
+  },
+  {
+    "content": "為了讓公司的開發流程正常化，有人提議要導入 DevOps，但是因為有部分工程師反對，主管決定讓大家投票表決，有三個選項 1. 導入 2. 不導入 3. 維持現狀",
+    "issue_number": 23
+  },
+  {
+    "content": "使用 Cobol 是有損心智的，因此，講授這門語言的行為，應被視為刑事犯罪",
+    "issue_number": 20
+  },
+  {
+    "content": "我早年都是用 vim 寫程式，也說不上特別喜歡，主要是當時還不知道怎麼退出 vim",
+    "issue_number": 19
+  },
+  {
+    "content": "今天要跟大家說一個很好笑的 UDP 笑話",
+    "issue_number": 18
+  },
+  {
+    "content": "Keyboard not found. Press F1 to continue.",
+    "issue_number": 17
+  },
+  {
+    "content": "Ubuntu 是一個來自非洲祖魯語的單詞，意思是 I can't configure Debian.",
+    "issue_number": 16
+  },
+  {
+    "content": "如果 Java 真的有 Garbage Collection 的話，大部份的程式應該在剛開始執行的時候就把自己給回收了",
+    "issue_number": 14
+  },
+  {
+    "content": "為了理解遞迴，首先你得理解遞迴",
+    "issue_number": 13
+  },
+  {
+    "content": "聽說 Hadoop 工程師睡不著的時候都會 Map/Reduce 羊",
+    "issue_number": 12
+  },
+  {
+    "content": "一個 QA 工程師走進酒吧，點了 -1 杯啤酒，然後酒吧爆炸了",
+    "issue_number": 11
+  },
+  {
+    "content": "分散式系統的兩大難題：二是訊息只傳遞一次，一是保證訊息的順序，二是訊息只傳遞一次",
+    "issue_number": 10
+  },
+  {
+    "content": "八個哈比人聚在一起的時候我們會叫他們 Hobbyte",
+    "issue_number": 9
+  },
+  {
+    "content": "人類的生產力在電腦和網路普及之後大幅提升，但是工時卻沒有變少",
+    "issue_number": 8
+  },
+  {
+    "content": "準備幫 git 申請金氏世界紀錄，名目是「人類能夠用 command line 操作的最為複雜的軟體」",
+    "issue_number": 7
+  },
+  {
+    "content": "要殺一個程式設計師不需要刀，改三次規格就好",
+    "issue_number": 6
+  },
+  {
+    "content": "遇到了一個問題，決定用 thread 來解決，嗯，在現有我兩個問了題",
+    "issue_number": 5
+  },
+  {
+    "content": "新來的 Designer 趁特價的時候幫自己買了一本 GoF Design Patterns",
+    "issue_number": 4
+  },
+  {
+    "content": "如何產生一個隨機字串？讓新手退出 vim",
+    "issue_number": 3
+  },
+  {
+    "content": "There is no cloud, just other people's computers.",
+    "issue_number": 2
+  }
+]

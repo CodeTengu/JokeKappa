@@ -1,0 +1,58 @@
+#!/usr/bin/env python
+
+from __future__ import print_function
+
+import argparse
+import sys
+
+import jokekappa
+
+
+class JokeKappaCLI(object):
+
+    def __init__(self):
+        parser = argparse.ArgumentParser(
+            prog='jokekappa',
+            description='humor is a serious thing, you should take it seriously',
+        )
+        self.parser = parser
+        self.parser.add_argument('-v', '--version', action='version', version=jokekappa.__version__)
+        self.parser.set_defaults(func=self.tell_joke)
+
+        self.subparsers = parser.add_subparsers(title='sub commands')
+        self.subparsers \
+            .add_parser('one', help='print one joke randomly') \
+            .set_defaults(func=self.tell_joke)
+        self.subparsers \
+            .add_parser('all', help='print all jokes') \
+            .set_defaults(func=self.tell_jokes)
+        self.subparsers \
+            .add_parser('update', help='update jokes from sources') \
+            .set_defaults(func=self.update_jokes)
+
+    def parse_args(self):
+        if len(sys.argv) == 1:
+            namespace = self.parser.parse_args(['one', ])
+        else:
+            namespace = self.parser.parse_args()
+        namespace.func()
+
+    def tell_joke(self):
+        joke = jokekappa.get_joke()
+        print(joke['content'])
+
+    def tell_jokes(self):
+        for joke in jokekappa.get_jokes():
+            print(joke['content'])
+
+    def update_jokes(self):
+        jokekappa.update_jokes()
+        print('Done')
+
+
+def main():
+    JokeKappaCLI().parse_args()
+
+
+if __name__ == '__main__':
+    main()

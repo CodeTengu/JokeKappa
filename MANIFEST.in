@@ -1,0 +1,4 @@
+recursive-include jokekappa/jokes *.json
+include LICENSE
+include README.rst
+include requirements.txt
