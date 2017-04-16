@@ -17,7 +17,6 @@ class JokeKappaCLI(object):
         )
         self.parser = parser
         self.parser.add_argument('-v', '--version', action='version', version=jokekappa.__version__)
-        self.parser.set_defaults(func=self.tell_joke)
 
         self.subparsers = parser.add_subparsers(title='sub commands')
         self.subparsers \
