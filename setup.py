@@ -2,6 +2,7 @@
 # coding: utf-8
 
 import os
+import sys
 
 from setuptools import find_packages
 from setuptools import setup
@@ -21,6 +22,15 @@ def get_version():
                 break
     return eval(code)
 
+
+if sys.argv[-1] == 'wheel':
+    os.system('rm -rf dist/*')
+    os.system('python setup.py bdist_wheel')
+    sys.exit(0)
+
+if sys.argv[-1] == 'publish':
+    os.system('twine upload dist/*')
+    sys.exit(0)
 
 long_description = open('README.rst').read()
 
