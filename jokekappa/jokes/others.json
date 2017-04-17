@@ -1,0 +1,217 @@
+[
+    {
+        "content": "「全端工程師」是指「有能力把系統裡的每一層都弄壞」"
+    },
+    {
+        "content": "為程式除錯就像是電影裡的偵探在辦案一樣，而且你同時也是兇手",
+        "reference": "Filipe Fortes"
+    },
+    {
+        "content": "多工 - 動詞；一次把好幾件事搞砸",
+        "reterence": "http://devhumor.com"
+    },
+    {
+        "content": "一個好的工程師是那種過單行道馬路都要左顧右盼的人",
+        "reference": "Doug Linder"
+    },
+    {
+        "content": "程式有問題時不要擔心，如果所有東西都沒問題，你就失業了"
+    },
+    {
+        "content": "工程師的麻煩在於，你無法弄清他在折騰什麼，當你最終弄明白時，也許已經太遲了",
+        "reference": "Seymour Cray"
+    },
+    {
+        "content": "我想大部分人都知道通常一名工程師會具有的美德；當然了，有三種：懶惰、暴躁、傲慢",
+        "reference": "Larry Wall"
+    },
+    {
+        "content": "寫程式時要保持這種心態：就好像將來要維護你這些程式的人是一位殘暴的精神病患者，而且他知道你住在哪",
+        "reference": "Martin Golding"
+    },
+    {
+        "content": "一個人寫的爛軟體將會給另一個人帶來一份全職工作",
+        "reference": "Jessica Gaston"
+    },
+    {
+        "content": "如果建築工人像工程師寫軟體那樣蓋房子，那第一隻飛來的啄木鳥就能毀掉人類文明",
+        "reference": "Gerald Weinberg"
+    },
+    {
+        "content": "這世界最有可能毀滅的方式 - 大多數專家都同意 - 是由意外造成；這就是為什麼會有我們，我們是電腦專家，我們創造意外",
+        "reference": "Nathaniel Borenstein"
+    },
+    {
+        "content": "我們這個產業有個特別奇怪的現象：我們不但不會從失敗裡吸取教訓，同時也不從成功中學習經驗",
+        "reference": "Keith Braithwaite"
+    },
+    {
+        "content": "一種新技術一旦開始流行，你要嘛坐上壓路機，要嘛成為鋪路石",
+        "reference": "Stewart Brand"
+    },
+    {
+        "content": "如果沒能一次成功，那就叫它 1.0 版吧"
+    },
+    {
+        "content": "所有的工程師都是編劇，所有的電腦都是爛演員"
+    },
+    {
+        "content": "工作進度上越快落後，你就會有越充足的時間趕上"
+    },
+    {
+        "content": "當有這樣的一種程式語言出現：它能讓工程師用簡單的英語寫程式，你將會發現，工程師都開始不會說英語"
+    },
+    {
+        "content": "為什麼我們沒有時間把事情做對，卻總有時間把事情砍掉重練？"
+    },
+    {
+        "content": "傻瓜都能寫出電腦能理解的程式，優秀的工程師寫出的是人類能讀懂的程式"
+    },
+    {
+        "content": "任何你寫的程式，超過 6 個月不去看它，當你再度開啓時，看起來都像是別人寫的",
+        "reference": "Eagleson's law"
+    },
+    {
+        "content": "按程式行數來評估軟體開發的進度，就如同按重量來評估飛機建造的進度",
+        "reference": "Bill Gates"
+    },
+    {
+        "content": "軟體就像做愛, 一次犯錯，你需要用剩下的一生來彌補",
+        "reference": "Michael Sinz"
+    },
+    {
+        "content": "在水上行走和按照特定需求開發開發軟體都很容易 - 前提是它們都是凍結狀態",
+        "reference": "Edward V Berard"
+    },
+    {
+        "content": "最初 90% 的程式消耗了最初 90% 的開發時間...最後 10% 的程式用去了另外 90% 的開發時間",
+        "reference": "Tom Cargill"
+    },
+    {
+        "content": "註釋程式很像清掃廁所——你不想幹，但如果你做了，這絕對會給你和你的客人帶來更愉悅的體驗",
+        "reference": "Ryan Campbell"
+    },
+    {
+        "content": "如今的程式是一場工程師和上帝的競賽，工程師要開發出更大更好、傻瓜都會用的軟體，而上帝在努力創造出更大更傻的傻瓜；目前為止，上帝是贏的",
+        "reference": "Rick Cook"
+    },
+    {
+        "content": "軟體設計最困難的部分...是阻擋新功能的引入",
+        "reference": "Donald Norman"
+    },
+    {
+        "content": "世上只有兩類程式語言：那些被人批得一無是處的，以及那些沒人使用的",
+        "reference": "Bjarne Stroustrup"
+    },
+    {
+        "content": "如果 Java 真的能夠垃圾回收，那大部分的程式都會在執行時自己刪除自己",
+        "reference": "Robert Swell"
+    },
+    {
+        "content": "理論上，理論和實際是沒有差異的；但實際上，是有的",
+        "reference": "Jan LA van de Snepscheut"
+    },
+    {
+        "content": "寫程式是 10% 的科學、20%天份，加上 70% 的讓天份符合科學"
+    },
+    {
+        "content": "評估一件事情要比去理解你評估了什麼容易"
+    },
+    {
+        "content": "培養員工，即使他們有跳槽的風險；什麼都不做而留他們在公司，這樣風險更大"
+    },
+    {
+        "content": "電腦科學的目標是做出一個東西，並且保證它至少能堅持到我們將它開發完成"
+    },
+    {
+        "content": "Java 之於 JavaScript 的關係就如同狗和熱狗",
+        "reference": "Chris Heilmann"
+    },
+    {
+        "content": "起初就把事情做對是完全沒必要的，但最後要把事情做對是絕對必要的",
+        "reference": "Andrew Hunt and David Thomas"
+    },
+    {
+        "content": "陣列的起頭應該從 0 開始還是從 1 開始？我的 0.5 的折衷提議被他們拒絕了，而我認為他們沒有考慮周詳",
+        "reference": "Stan Kelly-Bootle"
+    },
+    {
+        "content": "程式必須是為了給人看而寫，命令機器執行只是附帶任務",
+        "reference": "Abelson / Sussman"
+    },
+    {
+        "content": "寫程式可以很有趣，密碼學也是，但兩者絕對不能合而為一",
+        "reference": "Kreitzberg and Shneiderman"
+    },
+    {
+        "content": "複製 -- 貼上是一種設計錯誤",
+        "reference": "David Parnas"
+    },
+    {
+        "content": "電腦善於遵循指令，但不善於理解你的思維",
+        "reference": "Donald Knuth"
+    },
+    {
+        "content": "被刪除的程式就是被除錯的程式",
+        "reference": "Jeff Sickel"
+    },
+    {
+        "content": "如果除錯是消除軟體 bug 的過程，那寫程式一定是把它們放進去的過程",
+        "reference": "Edsger Dijkstra"
+    },
+    {
+        "content": "程式除錯要比新編寫程式困難一倍，因此，如果你寫出了最聰明的程式，按此推算，你就缺乏更深遠的智慧來替它除錯"
+    },
+    {
+        "content": "想在自己的程式裡找出一個錯誤是十分困難的；而當你認為你的程式沒有錯誤時，那就更難了",
+        "reference": "Steve McConnel"
+    },
+    {
+        "content": "這不是個 bug，這是一個沒寫在文件裡的功能"
+    },
+    {
+        "content": "沒有需求或設計，寫程式就是一種將 bug 添加到一個空白文件裡的藝術",
+        "reference": "Louis Srygley"
+    },
+    {
+        "content": "爛程式並不爛，只是被誤解了"
+    },
+    {
+        "content": "有兩種方法能寫出沒有錯誤的程式；但只有第三種好用",
+        "reference": "Alan J. Perlis"
+    },
+    {
+        "content": "小心上面程式中的 bug；我只知道這些程式是正確的，但沒有試過",
+        "reference": "Donald Knuth"
+    },
+    {
+        "content": "軟體能夠反覆使用之前，它必須要先可以用",
+        "reference": "Ralph Johnson"
+    },
+    {
+        "content": "軟體通常在 beta 測試完成不久後發表；Beta 在拉丁語中是「還不能用」的意思"
+    },
+    {
+        "content": "最好的性能改進是將軟體從不能用的狀態變成可用",
+        "reference": "J. Osterhout"
+    },
+    {
+        "content": "最便宜、最快速、最值得信賴的模組是那些還沒出現的模組",
+        "reference": "Gordon Bell"
+    },
+    {
+        "content": "我認為微軟之所以把「.Net」命名為「.Net」，是因為如此一來，它就不會出現在 Unix 的目錄裡",
+        "reference": "Oktal"
+    },
+    {
+        "content": "軟體和教堂非常相似：建成之後我們就開始祈禱",
+        "reference": "Sam Redwine"
+    },
+    {
+        "content": "除非最後一個使用者死掉，否則軟體是不會有完工的時候的"
+    },
+    {
+        "content": "如今的大部分軟體都非常像埃及金字塔，由成千上萬的石塊一塊一塊構成，沒有結構上的整合，而是由暴力強制和成千上萬的奴隸完成",
+        "reference": "Alan Kay"
+    }
+]
