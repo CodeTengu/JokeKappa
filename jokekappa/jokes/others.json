@@ -38,7 +38,7 @@
         "reference": "Gerald Weinberg"
     },
     {
-        "content": "這世界最有可能毀滅的方式 - 大多數專家都同意 - 是由意外造成；這就是為什麼會有我們，我們是電腦專家，我們創造意外",
+        "content": "這世界最有可能毀滅的方式，大多數專家都同意，是由意外造成；這就是為什麼會有我們，我們是電腦專家，我們創造意外",
         "reference": "Nathaniel Borenstein"
     },
     {
@@ -132,7 +132,7 @@
         "reference": "Andrew Hunt and David Thomas"
     },
     {
-        "content": "陣列的起頭應該從 0 開始還是從 1 開始？我的 0.5 的折衷提議被他們拒絕了，而我認為他們沒有考慮周詳",
+        "content": "陣列的起頭應該從 0 開始還是從 1 開始？我的 0.5 的折衷提議被他們拒絕了",
         "reference": "Stan Kelly-Bootle"
     },
     {
@@ -144,7 +144,7 @@
         "reference": "Kreitzberg and Shneiderman"
     },
     {
-        "content": "複製 -- 貼上是一種設計錯誤",
+        "content": "複製貼上是一種設計錯誤",
         "reference": "David Parnas"
     },
     {
