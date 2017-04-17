@@ -29,6 +29,7 @@ if sys.argv[-1] == 'wheel':
     sys.exit(0)
 
 if sys.argv[-1] == 'publish':
+    os.system('python setup.py wheel')
     os.system('twine upload dist/*')
     sys.exit(0)
 
