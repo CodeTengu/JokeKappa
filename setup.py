@@ -25,11 +25,13 @@ def get_version():
 
 if sys.argv[-1] == 'wheel':
     os.system('rm -rf dist/*')
+    os.system('pip install wheel')
     os.system('python setup.py bdist_wheel')
     sys.exit(0)
 
 if sys.argv[-1] == 'publish':
     os.system('python setup.py wheel')
+    os.system('pip install twine')
     os.system('twine upload dist/*')
     sys.exit(0)
 
