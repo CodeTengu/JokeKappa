@@ -43,9 +43,9 @@ In Python:
     import jokekappa
 
     joke = jokekappa.get_joke()
-    print(joke['content])
+    print(joke['content'])
     # ♫ 每條大街小巷，每個工程師的嘴裡，見面第一句話，就是不要 Deploy ♫
 
     for joke in jokekappa.get_jokes():
-        print(joke['content])
+        print(joke['content'])
         # 我早年都是用 vim 寫程式，也說不上特別喜歡，主要是當時還不知道怎麼退出 vim
