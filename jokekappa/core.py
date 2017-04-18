@@ -73,7 +73,7 @@ def update_jokes_for_codetengu_weekly():
 
         jokes = sorted(jokes, key=lambda d: d['issue_number'], reverse=True)
         with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(json.dumps(jokes, ensure_ascii=False, sort_keys=True, indent=2))
+            f.write(json.dumps(jokes, ensure_ascii=False, sort_keys=True, indent=4))
     else:
         print(req.content)
         sys.exit(1)
