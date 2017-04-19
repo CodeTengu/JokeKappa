@@ -7,7 +7,7 @@ JokeKappa
 .. image:: http://img.shields.io/pypi/v/jokekappa.svg?style=flat-square
     :target: https://pypi.python.org/pypi/jokekappa
 
-A library for delivering one-line programming jokes. Humor is a solemn thing, you should take it seriously.
+A library for delivering one-line programming jokes (mostly in Chinese). Humor is a solemn thing, you should take it seriously.
 
 Inspired by `pyjokes <https://github.com/pyjokes/pyjokes>`_.
 
