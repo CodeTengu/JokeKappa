@@ -216,5 +216,88 @@
     {
         "content": "如今的大部分軟體都非常像埃及金字塔，由成千上萬的石塊一塊一塊構成，沒有結構上的整合，而是由暴力強制和成千上萬的奴隸完成",
         "reference": "Alan Kay"
+    },
+    {
+        "content": "經過縝密計算，每次隨機從 n 個葡萄中挑一個洗，只要洗 knln(n) 次，就可以讓所有葡萄都被洗過的概率至少是 1-1/k。後經高人指點，發現可以用兩個碗，一個放洗過的，一個放沒洗過的",
+        "reference": "https://twitter.com/xueshudi"
+    },
+    {
+        "content": "「為什麼每次聖鬥士出招前都要大喊一下招式？」「函式要先宣告，然後才能呼叫」",
+        "reference": "https://twitter.com/xueshudi"
+    },
+    {
+        "content": "在餐廳吃完飯會自己收拾的是 C 工程師，直接走人留給服務員的是 Java 工程師",
+        "reference": "https://twitter.com/xueshudi"
+    },
+    {
+        "content": "清明節了，大家給工程師燒紙時一定要注意：公鑰和私鑰要分開燒",
+        "reference": "https://read01.com/zo7xa3.html"
+    },
+    {
+        "content": "我也想要讓世界更好，但他們不給我原始碼",
+        "reference": "http://www.hongkiat.com/blog/programming-jokes/"
+    },
+    {
+        "content": "兩個字串走進一間酒吧。酒保問「喝些什麼？」一個字串說「一杯啤酒 dk^CjfdLk jk3s d#f67howe%^U r89n」另一個字串說「抱歉，他的 NULL terminator 掉了」",
+        "reference": "http://stackoverflow.com/a/234894"
+    },
+    {
+        "content": "有時主管會在 email 的尾端附上 FYI，其實那意思是 Fuck You Idiot",
+        "reference": "ptt/Gossiping"
+    },
+    {
+        "content": "有個工程師習慣在睡前放兩個杯子在床頭桌上，一個裝滿了水，以確保半夜口渴時可以喝；另一個是空的，半夜不渴時可以不喝",
+        "reference": "http://stackoverflow.com/a/234476"
+    },
+    {
+        "content": "它編釋過了！來上市吧",
+        "reference": "http://stackoverflow.com/a/798395"
+    },
+    {
+        "content": "To be, or not to be? 答案是 FF. 0x2B |~ 0x2B = FF",
+        "reference": "http://stackoverflow.com/a/1377669"
+    },
+    {
+        "content": "新的 Cray 超級電腦真的很快，它可以在三秒內把一個無窮迴圈跑完",
+        "reference": "http://stackoverflow.com/a/234144"
+    },
+    {
+        "content": "聽說不要用自己養的貓的名字當成密碼，可是「B-43%^!n#C@」用起來很不錯啊",
+        "reference": "http://stackoverflow.com/a/670352"
+    },
+    {
+        "content": "用 UNIX 就像是吃蟲，習慣以後就好了",
+        "reference": "http://stackoverflow.com/a/322348"
+    },
+    {
+        "content": "如果你已經知道什麼是遞迴，把答案好好記著；如果你不知道，找個離 Douglas Hofstadter 更近的人，然後問他什麼的遞迴",
+        "reference": "http://mail.pm.org/pipermail/sanfrancisco-pm/2006-March/000438.html"
+    },
+    {
+    "content": "本系統上次更新時間：NaN/NaN/NaN"
+    },
+    {
+        "content": "「你偏好用 tab 還是空白來縮排？」「我用分號」",
+        "reference": "http://devhumor.com/media/tabs-spaces-i-prefer-semicolons"
+    },
+    {
+        "content": "（增加了一個例外處理函式，結果編譯錯誤）「你應該要處理它 而 不 是 變 成 它！」",
+        "reference": "http://devhumor.com/media/when-your-exception-handler-fails-to-compile"
+    },
+    {
+        "content": "Capslock 從 1980 年就開始千方百計的阻止人們登入各個系統",
+        "reference": "http://www.makeuseof.com/tag/55-geeky-line-jokes/"
+    },
+    {
+        "content": "「你都用什麼方式在開發軟體？」『BDD』「行為驅動開發嗎？真厲害」『不是，是 Bug-Driven-Development，我只在有東西爆炸的時候才整理自己的 code」",
+        "reference": "pi314 / https://en.wikipedia.org/wiki/Behavior-driven_development / https://en.wikipedia.org/wiki/Bug-driven_development"
+    },
+    {
+        "content": "我喜歡在填表單的時候加一些 � 和 â€™，好讓那些工程師懷疑系統有 bug",
+        "reference": "https://twitter.com/tenderlove/status/722565868719177729"
+    },
+    {
+        "content": "「您的信用卡號碼不能含有空白，請再試一次」不，你們的『企業級』Java 工程師需要學學 regex",
+        "reference": "https://twitter.com/iamdevloper/status/654228400467406848"
     }
 ]
