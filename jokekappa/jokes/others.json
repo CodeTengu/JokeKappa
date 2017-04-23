@@ -254,7 +254,7 @@
         "reference": "http://stackoverflow.com/a/798395"
     },
     {
-        "content": "To be, or not to be? 答案是 FF. 0x2B |~ 0x2B = FF",
+        "content": "To be, or not to be? 答案是 FF：0x2B |~ 0x2B = FF",
         "reference": "http://stackoverflow.com/a/1377669"
     },
     {
@@ -274,7 +274,7 @@
         "reference": "http://mail.pm.org/pipermail/sanfrancisco-pm/2006-March/000438.html"
     },
     {
-    "content": "本系統上次更新時間：NaN/NaN/NaN"
+        "content": "本系統上次更新時間：NaN/NaN/NaN"
     },
     {
         "content": "「你偏好用 tab 還是空白來縮排？」「我用分號」",
