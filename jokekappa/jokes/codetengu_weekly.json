@@ -1,5 +1,37 @@
 [
     {
+        "content": "To be OR NOT To be = To be",
+        "issue_number": 92
+    },
+    {
+        "content": "你可以使用 uname -m 指令來檢查你的 Linux 作業系統是 32 位元或是 [敏感词已被屏蔽] 位元",
+        "issue_number": 91
+    },
+    {
+        "content": "喜迎中華民國即將成為全亞洲第一個同志婚姻合法化的中國 #LoveWins",
+        "issue_number": 90,
+        "reterence": "https://twitter.com/GG_Buffet/status/867564848523034624"
+    },
+    {
+        "content": "我是十倍工程師，十倍爛的工程師",
+        "issue_number": 89
+    },
+    {
+        "content": "除錯就像是推理劇，你擔任偵探，同時也是兇手",
+        "issue_number": 88,
+        "reterence": "https://github.com/CodeTengu/headquarters/issues/23"
+    },
+    {
+        "content": "未來的某一天，Gmail 配備的 AI 可能會得出一個結論：想要消滅垃圾郵件最好的辦法就是消滅人類",
+        "issue_number": 87,
+        "reterence": "https://twitter.com/vinta/status/820305571991592962"
+    },
+    {
+        "content": "哇！是擅長 Over-engineering 的朋友呢！",
+        "issue_number": 84,
+        "reterence": "https://twitter.com/vinta/status/851131983988105216"
+    },
+    {
         "content": "你從什麼時候開始產生了我沒使用 Monkey Patch 的錯覺？",
         "issue_number": 83
     },
