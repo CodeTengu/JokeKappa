@@ -1,5 +1,10 @@
 [
     {
+        "content": "Information wants to be free",
+        "issue_number": 95,
+        "reterence": "https://en.wikipedia.org/wiki/Information_wants_to_be_free"
+    },
+    {
         "content": "好的 PM 可能就像是鬼故事，常常有人說得繪聲繪影、煞有其事，但是我從來沒遇過",
         "issue_number": 94,
         "reterence": "https://www.facebook.com/vinta.chen/posts/10155439604898268"
@@ -269,7 +274,7 @@
         "reterence": "https://github.com/pyjokes/pyjokes"
     },
     {
-        "content": "Ubuntu 是一個來自非洲祖魯語的單詞，意思是 I can't configure Debian.",
+        "content": "Ubuntu 是一個來自非洲祖魯語的單詞，意思是 I can't configure Debian",
         "issue_number": 16,
         "reterence": "https://askubuntu.com/questions/1943/ubuntu-is-an-ancient-african-word-meaning-i-cant-configure-debian-why"
     },
