@@ -1,5 +1,14 @@
 [
     {
+        "content": "<attackOnJava>那一天，人類終於回想起了，曾經一度被 XML 所支配的恐懼</attackOnJava> <!-- 進擊的 Java -->",
+        "issue_number": 99,
+        "reterence": "https://twitter.com/vinta/status/871286609877975040"
+    },
+    {
+        "content": "絕望啊！我對每個 library 都有自己的 DSL 絕望啦！",
+        "issue_number": 98
+    },
+    {
         "content": "Information wants to be free",
         "issue_number": 95,
         "reterence": "https://en.wikipedia.org/wiki/Information_wants_to_be_free"
