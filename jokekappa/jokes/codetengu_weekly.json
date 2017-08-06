@@ -1,5 +1,10 @@
 [
     {
+        "content": "The net is vast and infinite",
+        "issue_number": 100,
+        "reterence": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell"
+    },
+    {
         "content": "<attackOnJava>那一天，人類終於回想起了，曾經一度被 XML 所支配的恐懼</attackOnJava> <!-- 進擊的 Java -->",
         "issue_number": 99,
         "reterence": "https://twitter.com/vinta/status/871286609877975040"
