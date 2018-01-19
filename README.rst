@@ -1,10 +1,10 @@
 JokeKappa
 =========
 
-.. image:: http://img.shields.io/travis/CodeTengu/jokekappa/master.svg?style=flat-square
-    :target: https://travis-ci.org/CodeTengu/jokekappa
+.. image:: https://img.shields.io/travis/CodeTengu/JokeKappa/master.svg?style=flat-square
+    :target: https://travis-ci.org/CodeTengu/JokeKappa
 
-.. image:: http://img.shields.io/pypi/v/jokekappa.svg?style=flat-square
+.. image:: https://img.shields.io/pypi/v/jokekappa.svg?style=flat-square
     :target: https://pypi.python.org/pypi/jokekappa
 
 A library for delivering one-line programming jokes (mostly in Chinese). Humor is a solemn thing, you should take it seriously.
