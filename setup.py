@@ -43,7 +43,7 @@ install_requires = list(filter(None, requirements_lines))
 setup(
     name='jokekappa',
     version=get_version(),
-    url='https://github.com/CodeTengu/jokekappa',
+    url='https://github.com/CodeTengu/JokeKappa',
     description='A library for delivering one-line programming jokes.',
     long_description=long_description,
     keywords='jokes programming-jokes',
