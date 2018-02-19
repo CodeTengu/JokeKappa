@@ -1,5 +1,57 @@
 [
     {
+        "content": "我給你一個禮拜的時間查問題，明天就要修復",
+        "issue_number": 115
+    },
+    {
+        "content": "寫文件跟去健身是一樣的，大家都明白這只有好沒有壞，但總是覺得不需要",
+        "issue_number": 113
+    },
+    {
+        "content": "年初時立下的三項學習計畫，現在只差四項了",
+        "issue_number": 112
+    },
+    {
+        "content": "「職涯路上不順嗎？」「順啊，一路上都沒什麼人」",
+        "issue_number": 111
+    },
+    {
+        "content": "測試案例分成兩種：「這也要測？！」和「這也能測？！」",
+        "issue_number": 110
+    },
+    {
+        "content": "「全端工程師」是指「有能力把系統裡的每一層都弄壞」",
+        "issue_number": 109
+    },
+    {
+        "content": "聽說多數公司會故意招募一個能力不足的員工只是為了鼓舞大家的士氣，讓其他人在遇到瓶頸時還保有信心。真是無稽之談，我待的公司就沒看到這樣的人。",
+        "issue_number": 108
+    },
+    {
+        "content": "先講求效果，再講求不傷身體",
+        "issue_number": 107
+    },
+    {
+        "content": "大家都說除錯的難度要比程式被寫出來的時候難兩倍以上，因此，理論上你沒有能力除錯自己用盡全力寫出的精妙程式",
+        "issue_number": 106
+    },
+    {
+        "content": "做不出來時，資深工程師知道什麼時候該站起來走一走，更資深的工程師知道什麼時候該跑",
+        "issue_number": 105
+    },
+    {
+        "content": "當你凝視 bug，bug 也凝視著你",
+        "issue_number": 104
+    },
+    {
+        "content": "If 判斷式就是窮人版的決策樹",
+        "issue_number": 103
+    },
+    {
+        "content": "為什麼小明有問題都不 Google？因為他有 Bing",
+        "issue_number": 102
+    },
+    {
         "content": "The net is vast and infinite",
         "issue_number": 100,
         "reterence": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell"
