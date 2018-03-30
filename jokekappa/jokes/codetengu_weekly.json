@@ -1,19 +1,35 @@
 [
     {
+        "content": "請問 TRUNCATE TABLE 是 DDL 還是 DML，請搶答！",
+        "issue_number": 121,
+        "reterence": "https://twitter.com/vinta/status/895937661189238784"
+    },
+    {
+        "content": "本公司不用打卡，所以上下班時間非常彈性。喔不過我們通常會在早上七點開 Daily Scrum Meeting",
+        "issue_number": 120,
+        "reterence": "https://twitter.com/vinta/status/971348958831235072"
+    },
+    {
+        "content": "小明面試時自述他寫程式有高可預測性跟一致性，到職後果然沒有人看得懂，小明很誠實",
+        "issue_number": 119
+    },
+    {
+        "content": "小明在開發軟體時總是嚴格地遵循各項協定與標準，直到他看了 ISO 3166-1",
+        "issue_number": 117,
+        "reterence": "https://twitter.com/vinta/status/971348958831235072"
+    },
+    {
+        "content": "彼得原理：在一個組織中，每個員工終將被晉升到他所不能勝任的職位",
+        "issue_number": 116,
+        "reterence": "https://zh.wikipedia.org/zh-tw/%E5%BD%BC%E5%BE%97%E5%8E%9F%E7%90%86"
+    },
+    {
         "content": "我給你一個禮拜的時間查問題，明天就要修復",
         "issue_number": 115
     },
     {
         "content": "寫文件跟去健身是一樣的，大家都明白這只有好沒有壞，但總是覺得不需要",
         "issue_number": 113
-    },
-    {
-        "content": "年初時立下的三項學習計畫，現在只差四項了",
-        "issue_number": 112
-    },
-    {
-        "content": "「職涯路上不順嗎？」「順啊，一路上都沒什麼人」",
-        "issue_number": 111
     },
     {
         "content": "測試案例分成兩種：「這也要測？！」和「這也能測？！」",
@@ -52,11 +68,6 @@
         "issue_number": 102
     },
     {
-        "content": "The net is vast and infinite",
-        "issue_number": 100,
-        "reterence": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell"
-    },
-    {
         "content": "<attackOnJava>那一天，人類終於回想起了，曾經一度被 XML 所支配的恐懼</attackOnJava> <!-- 進擊的 Java -->",
         "issue_number": 99,
         "reterence": "https://twitter.com/vinta/status/871286609877975040"
@@ -64,11 +75,6 @@
     {
         "content": "絕望啊！我對每個 library 都有自己的 DSL 絕望啦！",
         "issue_number": 98
-    },
-    {
-        "content": "Information wants to be free",
-        "issue_number": 95,
-        "reterence": "https://en.wikipedia.org/wiki/Information_wants_to_be_free"
     },
     {
         "content": "好的 PM 可能就像是鬼故事，常常有人說得繪聲繪影、煞有其事，但是我從來沒遇過",
@@ -81,17 +87,8 @@
         "reterence": "https://github.com/pyjokes/pyjokes"
     },
     {
-        "content": "To be OR NOT To be = To be",
-        "issue_number": 92
-    },
-    {
         "content": "你可以使用 uname -m 指令來檢查你的 Linux 作業系統是 32 位元或是 [敏感词已被屏蔽] 位元",
         "issue_number": 91
-    },
-    {
-        "content": "喜迎中華民國即將成為全亞洲第一個同志婚姻合法化的中國 #LoveWins",
-        "issue_number": 90,
-        "reterence": "https://twitter.com/GG_Buffet/status/867564848523034624"
     },
     {
         "content": "我是十倍工程師，十倍爛的工程師",
