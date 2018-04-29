@@ -1,5 +1,22 @@
 [
     {
+        "content": "碼天狗新聞：工程師會議中默不作聲，PM 恐成最大贏家",
+        "issue_number": 125,
+        "reterence": "https://twitter.com/vinta/status/963031240776364032"
+    },
+    {
+        "content": "小明開了一間酒吧叫 Foo Bar",
+        "issue_number": 124
+    },
+    {
+        "content": "簡單、粗暴、做得到",
+        "issue_number": 123
+    },
+    {
+        "content": "整天都在網路上看人家的文件，但還沒有自己寫過—文件就像是青春期的性愛幻想",
+        "issue_number": 122
+    },
+    {
         "content": "請問 TRUNCATE TABLE 是 DDL 還是 DML，請搶答！",
         "issue_number": 121,
         "reterence": "https://twitter.com/vinta/status/895937661189238784"
