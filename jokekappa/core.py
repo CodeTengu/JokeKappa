@@ -3,7 +3,7 @@
 from __future__ import print_function
 from __future__ import unicode_literals
 
-from io import open
+from io import open, TextIOWrapper
 import glob
 import json
 import os
@@ -12,6 +12,7 @@ import sys
 
 import requests
 
+sys.stdout = TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 JOKE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), 'jokes/'))
 
