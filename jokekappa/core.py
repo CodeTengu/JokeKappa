@@ -18,7 +18,7 @@ JOKE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), 'jokes/'))
 
 
 def load_from_file(filepath):
-    with open(filepath) as f:
+    with open(filepath, "r", encoding='utf-8') as f:
         try:
             jokes = json.load(f)
         except ValueError:
