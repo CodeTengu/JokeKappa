@@ -1,5 +1,14 @@
 [
     {
+        "content": "投資虛擬貨幣讓我學會了相當現實的理財觀念",
+        "issue_number": 142
+    },
+    {
+        "content": "醫師：「不要用你 Google 到的結果質疑我的醫學知識」；軟體工程師：「不要用你 Google 到的結果質疑我 Google 到的結果」",
+        "issue_number": 141,
+        "reterence": "https://i.imgur.com/KWiBfbZ.jpg"
+    },
+    {
         "content": "聽說新來的工程師喜歡玩密室逃脫，但是看他玩了一個下午都還沒離開 Vim 呢",
         "issue_number": 140,
         "reterence": "https://twitter.com/vinta/status/967689046225907712"
@@ -85,8 +94,7 @@
     },
     {
         "content": "小明在開發軟體時總是嚴格地遵循各項協定與標準，直到他看了 ISO 3166-1",
-        "issue_number": 117,
-        "reterence": "https://twitter.com/vinta/status/971348958831235072"
+        "issue_number": 117
     },
     {
         "content": "彼得原理：在一個組織中，每個員工終將被晉升到他所不能勝任的職位",
