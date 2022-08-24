@@ -6,12 +6,12 @@
     {
         "content": "醫師：「不要用你 Google 到的結果質疑我的醫學知識」；軟體工程師：「不要用你 Google 到的結果質疑我 Google 到的結果」",
         "issue_number": 141,
-        "reterence": "https://i.imgur.com/KWiBfbZ.jpg"
+        "reference": "https://i.imgur.com/KWiBfbZ.jpg"
     },
     {
         "content": "聽說新來的工程師喜歡玩密室逃脫，但是看他玩了一個下午都還沒離開 Vim 呢",
         "issue_number": 140,
-        "reterence": "https://twitter.com/vinta/status/967689046225907712"
+        "reference": "https://twitter.com/vinta/status/967689046225907712"
     },
     {
         "content": "他們在 release 的前一天爆炸",
@@ -64,7 +64,7 @@
     {
         "content": "碼天狗新聞：工程師會議中默不作聲，PM 恐成最大贏家",
         "issue_number": 125,
-        "reterence": "https://twitter.com/vinta/status/963031240776364032"
+        "reference": "https://twitter.com/vinta/status/963031240776364032"
     },
     {
         "content": "小明開了一間酒吧叫 Foo Bar",
@@ -81,12 +81,12 @@
     {
         "content": "請問 TRUNCATE TABLE 是 DDL 還是 DML，請搶答！",
         "issue_number": 121,
-        "reterence": "https://twitter.com/vinta/status/895937661189238784"
+        "reference": "https://twitter.com/vinta/status/895937661189238784"
     },
     {
         "content": "本公司不用打卡，所以上下班時間非常彈性。喔不過我們通常會在早上七點開 Daily Scrum Meeting",
         "issue_number": 120,
-        "reterence": "https://twitter.com/vinta/status/971348958831235072"
+        "reference": "https://twitter.com/vinta/status/971348958831235072"
     },
     {
         "content": "小明面試時自述他寫程式有高可預測性跟一致性，到職後果然沒有人看得懂，小明很誠實",
@@ -99,7 +99,7 @@
     {
         "content": "彼得原理：在一個組織中，每個員工終將被晉升到他所不能勝任的職位",
         "issue_number": 116,
-        "reterence": "https://zh.wikipedia.org/zh-tw/%E5%BD%BC%E5%BE%97%E5%8E%9F%E7%90%86"
+        "reference": "https://zh.wikipedia.org/zh-tw/%E5%BD%BC%E5%BE%97%E5%8E%9F%E7%90%86"
     },
     {
         "content": "我給你一個禮拜的時間查問題，明天就要修復",
@@ -148,7 +148,7 @@
     {
         "content": "<attackOnJava>那一天，人類終於回想起了，曾經一度被 XML 所支配的恐懼</attackOnJava> <!-- 進擊的 Java -->",
         "issue_number": 99,
-        "reterence": "https://twitter.com/vinta/status/871286609877975040"
+        "reference": "https://twitter.com/vinta/status/871286609877975040"
     },
     {
         "content": "絕望啊！我對每個 library 都有自己的 DSL 絕望啦！",
@@ -157,12 +157,12 @@
     {
         "content": "好的 PM 可能就像是鬼故事，常常有人說得繪聲繪影、煞有其事，但是我從來沒遇過",
         "issue_number": 94,
-        "reterence": "https://www.facebook.com/vinta.chen/posts/10155439604898268"
+        "reference": "https://www.facebook.com/vinta.chen/posts/10155439604898268"
     },
     {
         "content": "理論上，理論和實際是沒有差異的；但實際上，是有的",
         "issue_number": 93,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "你可以使用 uname -m 指令來檢查你的 Linux 作業系統是 32 位元或是 [敏感词已被屏蔽] 位元",
@@ -175,17 +175,17 @@
     {
         "content": "除錯就像是推理劇，你擔任偵探，同時也是兇手",
         "issue_number": 88,
-        "reterence": "https://github.com/CodeTengu/headquarters/issues/23"
+        "reference": "https://github.com/CodeTengu/headquarters/issues/23"
     },
     {
         "content": "未來的某一天，Gmail 配備的 AI 可能會得出一個結論：想要消滅垃圾郵件最好的辦法就是消滅人類",
         "issue_number": 87,
-        "reterence": "https://twitter.com/vinta/status/820305571991592962"
+        "reference": "https://twitter.com/vinta/status/820305571991592962"
     },
     {
         "content": "哇！是擅長 Over-engineering 的朋友呢！",
         "issue_number": 84,
-        "reterence": "https://twitter.com/vinta/status/851131983988105216"
+        "reference": "https://twitter.com/vinta/status/851131983988105216"
     },
     {
         "content": "你從什麼時候開始產生了我沒使用 Monkey Patch 的錯覺？",
@@ -238,7 +238,7 @@
     {
         "content": "小明白天只是一名普通的軟體工程師，但是只要一到了夜晚，他就會搖身一變，成為一名加班的軟體工程師",
         "issue_number": 67,
-        "reterence": "https://www.facebook.com/vinta.chen/posts/10154883650208268"
+        "reference": "https://www.facebook.com/vinta.chen/posts/10154883650208268"
     },
     {
         "content": "學海無涯，回頭是岸",
@@ -263,7 +263,7 @@
     {
         "content": "There is no place like 127.0.0.1",
         "issue_number": 60,
-        "reterence": "http://www.thinkgeek.com/product/5d6a/"
+        "reference": "http://www.thinkgeek.com/product/5d6a/"
     },
     {
         "content": "你在每個 commit 裡修改的程式碼越多，你在 code review 時被發現的錯誤就會越少",
@@ -276,12 +276,12 @@
     {
         "content": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
         "issue_number": 57,
-        "reterence": "https://blog.codinghorror.com/the-principle-of-least-power/"
+        "reference": "https://blog.codinghorror.com/the-principle-of-least-power/"
     },
     {
         "content": "The best place to hide a dead body is page 2 of Google search results.",
         "issue_number": 56,
-        "reterence": "http://www.huffingtonpost.com/chad-pollitt/the-best-place-to-hide-a-_b_5168714.html"
+        "reference": "http://www.huffingtonpost.com/chad-pollitt/the-best-place-to-hide-a-_b_5168714.html"
     },
     {
         "content": "要 mock 的物件太多了，只好 mock 罵號",
@@ -298,7 +298,7 @@
     {
         "content": "There are only two hard things in Computer Science: cache invalidation and naming things.",
         "issue_number": 49,
-        "reterence": "https://martinfowler.com/bliki/TwoHardThings.html"
+        "reference": "https://martinfowler.com/bliki/TwoHardThings.html"
     },
     {
         "content": "做高級工程師好多年了，沒想到今天忽然就被升職成傳說級工程師",
@@ -319,7 +319,7 @@
     {
         "content": "Perl 是唯一一門在 RSA 加密前後看起來一樣的語言",
         "issue_number": 43,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "所有人都在說互联网，沒有人在說網際網路了",
@@ -340,12 +340,12 @@
     {
         "content": "除錯的難度幾乎是寫程式的兩倍，如果你把程式寫得太精巧，那你多半沒有聰明到可以解決你的程式的錯誤",
         "issue_number": 37,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "Hi, I'd like to add you to my professional network on LinkedIn",
         "issue_number": 36,
-        "reterence": "https://www.linkedin.com/"
+        "reference": "https://www.linkedin.com/"
     },
     {
         "content": "不要試著去人格化人工智慧！他們討厭那樣子！",
@@ -366,7 +366,7 @@
     {
         "content": "「我是個壞女孩，我需要被懲罰」她咬著嘴唇說著，「很好」他邊說邊開始在她的筆電安裝 Windows 10",
         "issue_number": 31,
-        "reterence": "https://twitter.com/50nerdsofgrey/status/640985632941064192"
+        "reference": "https://twitter.com/50nerdsofgrey/status/640985632941064192"
     },
     {
         "content": "聽我說，我有一個獨家的點子，只缺幾個工程師來實現它：「設計一套可以付費下載更多 RAM 的 APP」",
@@ -375,7 +375,7 @@
     {
         "content": "如何靠寫 Java 快速致富？繼承",
         "issue_number": 29,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "♫ 每條大街小巷，每個工程師的嘴裡，見面第一句話，就是不要 Deploy ♫",
@@ -384,7 +384,7 @@
     {
         "content": "密碼：ppnn13%dkstFeb.1st 密碼提示：娉娉裊裊十三餘 豆蔻梢頭二月初",
         "issue_number": 27,
-        "reterence": "https://www.zhihu.com/question/21460228"
+        "reference": "https://www.zhihu.com/question/21460228"
     },
     {
         "content": "自從注意到更新 Xcode 需要先關閉 iTunes 之後，我對於模組解耦合這件事已經沒有追求",
@@ -397,42 +397,42 @@
     {
         "content": "使用 Cobol 是有損心智的，因此，講授這門語言的行為，應被視為刑事犯罪",
         "issue_number": 20,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "我早年都是用 vim 寫程式，也說不上特別喜歡，主要是當時還不知道怎麼退出 vim",
         "issue_number": 19,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "今天要跟大家說一個很好笑的 UDP 笑話",
         "issue_number": 18,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "Keyboard not found. Press F1 to continue.",
         "issue_number": 17,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "Ubuntu 是一個來自非洲祖魯語的單詞，意思是 I can't configure Debian",
         "issue_number": 16,
-        "reterence": "https://askubuntu.com/questions/1943/ubuntu-is-an-ancient-african-word-meaning-i-cant-configure-debian-why"
+        "reference": "https://askubuntu.com/questions/1943/ubuntu-is-an-ancient-african-word-meaning-i-cant-configure-debian-why"
     },
     {
         "content": "如果 Java 真的有 Garbage Collection 的話，大部份的程式應該在剛開始執行的時候就把自己給回收了",
         "issue_number": 14,
-        "reterence": "https://github.com/CodeTengu/headquarters/issues/23"
+        "reference": "https://github.com/CodeTengu/headquarters/issues/23"
     },
     {
         "content": "為了理解遞迴，首先你得理解遞迴",
         "issue_number": 13,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "聽說 Hadoop 工程師睡不著的時候都會 Map/Reduce 羊",
         "issue_number": 12,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "一個 QA 工程師走進酒吧，點了 -1 杯啤酒，然後酒吧爆炸了",
@@ -441,12 +441,12 @@
     {
         "content": "分散式系統的兩大難題：二是訊息只傳遞一次，一是保證訊息的順序，二是訊息只傳遞一次",
         "issue_number": 10,
-        "reterence": "https://twitter.com/mathiasverraes/status/632260618599403520"
+        "reference": "https://twitter.com/mathiasverraes/status/632260618599403520"
     },
     {
         "content": "八個哈比人聚在一起的時候我們會叫他們 Hobbyte",
         "issue_number": 9,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "人類的生產力在電腦和網路普及之後大幅提升，但是工時卻沒有變少",
@@ -459,7 +459,7 @@
     {
         "content": "要殺一個程式設計師不需要刀，改三次規格就好",
         "issue_number": 6,
-        "reterence": "http://but.tw/2008/10/programmers_rule/"
+        "reference": "http://but.tw/2008/10/programmers_rule/"
     },
     {
         "content": "遇到了一個問題，決定用 thread 來解決，嗯，在現有我兩個問了題",
@@ -472,11 +472,11 @@
     {
         "content": "如何產生一個隨機字串？讓新手退出 vim",
         "issue_number": 3,
-        "reterence": "https://github.com/pyjokes/pyjokes"
+        "reference": "https://github.com/pyjokes/pyjokes"
     },
     {
         "content": "There is no cloud, just other people's computers.",
         "issue_number": 2,
-        "reterence": "http://www.zdnet.com/article/stop-saying-the-cloud-is-just-someone-elses-computer-because-its-not/"
+        "reference": "http://www.zdnet.com/article/stop-saying-the-cloud-is-just-someone-elses-computer-because-its-not/"
     }
 ]
